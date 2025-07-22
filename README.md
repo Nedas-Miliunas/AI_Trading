@@ -10,13 +10,13 @@ AI-powered live and backtest trading simulator with PyQt5 GUI, real-time Binance
 - Logging, quantization, and minimal notional rules
 
 ## 📦 Download
-[👉 Windows Installer (.exe)]()
+[👉 Windows Installer (.exe)](link.com)
 
 ## 🧠 AI Strategy
 Uses simplified RSI + EMA signals with dynamic position sizing based on volatility.
 
 ## 🖼️ Preview
-![screenshot]()
+![screenshot](Screenshot.png)
 
 ## 🔧 Tech Stack
 - Python, PyQt5, matplotlib
