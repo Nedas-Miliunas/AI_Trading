@@ -1,0 +1,6 @@
+PyQt5
+ccxt
+matplotlib
+numpy
+pandas
+pyinstaller
