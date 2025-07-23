@@ -16,7 +16,7 @@ AI-powered live and backtest trading simulator with PyQt5 GUI, real-time Binance
 Uses simplified RSI + EMA signals with dynamic position sizing based on volatility.
 
 ## 🖼️ Preview
-![Screenshot](ui/assets/sshot.png)
+![Screenshot](ui/assets/screenshot.png)
 
 ## 🔧 Tech Stack
 - Python, PyQt5, matplotlib
