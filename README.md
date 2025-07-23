@@ -40,7 +40,7 @@ This isn’t a get-rich-quick bot — it's a realistic simulator meant for learn
 
 ## 🖼️ Interface Preview
 
-![UI Screenshot](ui/assets/sshot.png)
+![UI Screenshot](ui/assets/screenshot.png)
 
 ---
 
