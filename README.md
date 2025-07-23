@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💹 AI Crypto Simulator
 
 A sleek, AI-powered trading simulator with real-time crypto data, customizable risk strategies, and a modern PyQt5 interface. Perfect for testing ideas or just playing around with the markets.
@@ -51,3 +52,29 @@ This isn’t a get-rich-quick bot — it's a realistic simulator meant for learn
 - 📊 matplotlib for data visualization
 - 🌐 ccxt for exchange integration
 - 🛠️ Inno Setup for building the Windows installer
+=======
+# 💹 AI Crypto Simulator
+
+AI-powered live and backtest trading simulator with PyQt5 GUI, real-time Binance data, and simple ML heuristics.
+
+## 🚀 Features
+- Live data from Binance via `ccxt`
+- Real-time balance & crypto chart
+- Adjustable AI risk levels
+- Backtest mode with CSV upload
+- Logging, quantization, and minimal notional rules
+
+## 📦 Download
+[👉 Windows Installer (.exe)](link.com)
+
+## 🧠 AI Strategy
+Uses simplified RSI + EMA signals with dynamic position sizing based on volatility.
+
+## 🖼️ Preview
+![Screenshot](ui/assets/sshot.png)
+
+## 🔧 Tech Stack
+- Python, PyQt5, matplotlib
+- ccxt for exchange data
+- Inno Setup for installer
+>>>>>>> d91f1b6 (Fix: Treat PNGs as binary for GitHub rendering)
