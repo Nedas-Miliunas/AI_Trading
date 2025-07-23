@@ -40,7 +40,7 @@ This isn’t a get-rich-quick bot — it's a realistic simulator meant for learn
 
 ## 🖼️ Interface Preview
 
-![UI Screenshot](ui/assets/sshot.png)
+![UI Screenshot](ui/assets/screenshot.png)
 
 ---
 
@@ -50,4 +50,3 @@ This isn’t a get-rich-quick bot — it's a realistic simulator meant for learn
 - 🖼️ PyQt5 for the graphical interface
 - 📊 matplotlib for data visualization
 - 🌐 ccxt for exchange integration
-- 🛠️ Inno Setup for building the Windows installer
